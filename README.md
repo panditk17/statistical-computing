@@ -1,1 +1,1 @@
-# statistical-computing
+# statistical tools and codes associated
